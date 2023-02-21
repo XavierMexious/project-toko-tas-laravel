@@ -6,7 +6,7 @@ function App() {
     <div className="bg-purple-500">
       App.jsx
       <BeakerIcon className='w-4' />
-      <div>helo</div>
+      <div>helo <span>Ini Tambah oleh Adit</span></div>
     </div>
   )
 }
